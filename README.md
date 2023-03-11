@@ -9,6 +9,7 @@
 <ul>
 <body>
 <li>For doing the exploratory data anlysis SQL was used to analyze the data and find patterns in data.</li>
+<li> A questionnaire was created by initially looking at the data which would help during data analysis<li>
 <li>The output from SQL queries was exported to excel then via Tableau desktop application data vizulization was done.</li>
 <li>The data is provided in the data directory which was then imported in MySQL database using MySql workbench.</li>
 <li>The SQL queries and their corresponding output are documented inside a pdf file which is added to the repository.</li>
